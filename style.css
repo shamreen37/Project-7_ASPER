@@ -10,9 +10,21 @@ body {
     background-color: #fff;
 }
 
+.yellow-back {
+    background-color: #F4A100;
+}
+
+.green-back {
+    background-color: #00AC69;
+}
+
 .yellow {
     background-color: #F2EEE3;
     color: #F4A100;
+}
+
+.orange {
+    background-color: rgb(255, 115, 0);
 }
 
 .red {
